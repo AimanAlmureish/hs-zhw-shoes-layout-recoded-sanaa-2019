@@ -7,7 +7,7 @@
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-}
+} 
 
 .clearfix:after {
   content: ".";
@@ -24,4 +24,7 @@
 
 /* Positioning Classes */
 
-
+.all{
+  column-count: 2;
+  
+}
